@@ -1,4 +1,4 @@
-###### Python - Aula 03 - Exercícios de Condicionais e Loops ######
+# Python - Aula 03 - Exercícios de Condicionais e Loops
 
 ### Exercício 1: Verificação de Qualidade de Dados
 # Você está analisando um conjunto de dados de vendas e precisa garantir 
